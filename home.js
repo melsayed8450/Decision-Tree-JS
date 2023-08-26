@@ -104,6 +104,7 @@ function addingQuestions(){
   }
 }
 
+
 animationCanvas.width = window.innerWidth;
 animationCanvas.height = window.innerHeight;
 
